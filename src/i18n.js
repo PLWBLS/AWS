@@ -34,7 +34,7 @@ const locales = {
         tel: 'Numer telefonu 00 000-00-00'
       },
       openingHours: {
-        title: 'Godziny otwarcia',
+        title: 'Godziny',
         hours: 'Poniedziałek - Piątek: 9-17'
       }
     },
@@ -62,7 +62,7 @@ const locales = {
       schedule: 'Grafik'
     },
     news: {
-      news: 'Aktualności:',
+      news: 'PLW TeSt:',
       added: 'Dodane: ',
       readMore: 'Czytaj więcej',
       nextNews: 'Następne wpisy'
